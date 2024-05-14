@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MaazAkram76
-- 👀 I’m interested in Artificial Inteligence
-- 🌱 I’m currently learning C++
+maaz.
+airUniversityIslamabad
+bSAI
 
 <!---
 MaazAkram76/MaazAkram76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
